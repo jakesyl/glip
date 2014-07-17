@@ -21,7 +21,6 @@
  * You should have received a copy of the GNU General Public License
  * along with glip.  If not, see <http://www.gnu.org/licenses/>.
  */
-
 final class Binary
 {
     static public function uint16($str, $pos=0)
@@ -58,4 +57,3 @@ final class Binary
         return $r;
     }
 }
-
