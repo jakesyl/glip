@@ -4,6 +4,8 @@
 
 @section remarks General Remarks
 
+This is depricated!
+
 In its current state, the interface provided by glip is still very close to
 git's format for storing objects. You can examine a particular object in its
 on-disk representation with <tt>git cat-file -p HASH</tt>. It is a good idea
